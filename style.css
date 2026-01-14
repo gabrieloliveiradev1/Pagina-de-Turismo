@@ -14,7 +14,7 @@ body{
 }
 
 #page {
-   max-width: 1200px;
+   max-width: 1120px;
    margin: 0 auto;
    padding: 24px;
 }
@@ -57,7 +57,6 @@ h3{
 }
 
 h1,h2,h3 {
-  font-family: "Alice", serif;
   color: #1B1B1B;
 }
 
